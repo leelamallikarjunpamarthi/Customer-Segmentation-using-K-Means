@@ -107,17 +107,6 @@ The model divides customers into five clusters based on their income and spendin
 These clusters provide valuable insights for targeted marketing strategies.
 
 ---
-
-## 📁 Project Structure
-
-customer-segmentation-ml
-│
-├── customer_segmentation.ipynb
-├── Mall_Customers.csv
-├── customer_cluster_report.csv
-└── README.md
----
-
 ## 📈 Visualizations
 
 The project includes several visualizations such as:
